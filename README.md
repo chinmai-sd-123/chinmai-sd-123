@@ -16,9 +16,9 @@ I'm a passionate developer interested in building scalable software and learning
 
 ## 📫 Connect with me
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Twitter:** [@your-handle](https://twitter.com/your-handle)
+- **Email:** [chinmaisdinesh@gmail.com](mailto:chinmaisdinesh@gmail.com)
+- **LinkedIn:** [linkedin.com/in/chinmai-sd](https://linkedin.com/in/chinmai-sd)
+- **Website(Personal):** [portfolio](https://twitter.com/your-handle)
 
 ## 🚀 What I'm up to
 
