@@ -1,19 +1,20 @@
 # Hi, I'm Chinmai SD
 
-I am an aspiring **Machine Learning Engineer** focused on building **robust, end-to-end ML systems**.  
-My work emphasizes **data understanding, feature engineering, model evaluation, and deployment**, rather than relying on unnecessarily complex models.
+I am an aspiring **Machine Learning & AI Engineer** focused on building **robust, end-to-end intelligent systems**.  
+My work emphasizes **data understanding, feature engineering, model evaluation, and system design**, while progressively moving toward **AI-driven and GenAI-based applications**.
 
-I enjoy solving real-world problems where machine learning meets **practical constraints and system design**.
+I prefer building systems that are **correct, interpretable, and deployable**, rather than relying on complexity for its own sake.
 
 ---
 
 ## Areas of Interest
 
-- Applied Machine Learning & NLP  
+- Machine Learning & Applied AI  
+- Natural Language Processing (NLP)  
+- AI System Design & Evaluation  
 - Feature Engineering and Model Generalization  
-- ML System Design and Evaluation  
-- Backend APIs for ML Applications  
-- Classical ML over deep learning when appropriate  
+- Backend APIs for ML / AI Applications  
+- Transitioning from Classical ML to AI & GenAI Systems  
 
 ---
 
@@ -23,12 +24,15 @@ I enjoy solving real-world problems where machine learning meets **practical con
 - Python  
 - SQL  
 
-### Machine Learning & Data
+### Machine Learning & AI
 - Scikit-learn  
+- Classical NLP (TF-IDF, n-grams, text pipelines)  
+- Model evaluation and validation techniques  
+- Feature engineering for structured and unstructured data  
+
+### Data & Visualization
 - Pandas  
 - NumPy  
-
-### Visualization
 - Matplotlib  
 - Seaborn  
 
@@ -43,24 +47,25 @@ I enjoy solving real-world problems where machine learning meets **practical con
 ## Featured Projects
 
 ### Intelligent Customer Support Ticket Classification System
-- Built an end-to-end NLP system for automated customer support ticket triaging  
-- Used classical ML (TF-IDF + Linear SVM), avoiding deep learning by design  
-- Handled noisy and obfuscated text using character-level n-grams  
-- Implemented urgency detection, priority assignment, and department routing  
+- Built an end-to-end **ML-powered AI system** for automated customer support ticket triaging  
+- Used **classical NLP + Linear SVM** for strong generalization on noisy real-world text  
+- Integrated **urgency detection, priority assignment, and department routing**  
+- Clean separation between ML models and business logic  
 - Deployed as a Flask web application with REST API and frontend  
 
 ### House Price Prediction
-- Developed an end-to-end regression pipeline  
-- Performed feature engineering and model comparison  
-- Selected ElasticNet based on validation RMSE and generalization performance  
+- Developed an end-to-end regression pipeline with feature engineering  
+- Compared multiple models and selected ElasticNet based on validation RMSE  
+- Focused on bias–variance tradeoff and interpretability  
 
 ### Titanic Survival Prediction
 - Structured preprocessing and feature engineering  
-- Evaluated multiple classification models with cross-validation  
-- Focused on generalization rather than leaderboard optimization  
+- Model comparison using cross-validation  
+- Emphasis on generalization rather than leaderboard optimization  
 
 ### AI-Powered Astronaut Health Monitoring System
-- Designed an AI-based system to analyze physiological data and assess health risks  
+- Designed an **AI-based system** to analyze physiological data and assess health risks  
+- Focused on decision support and risk assessment  
 - Presented at an IEEE International Conference  
 - Publication currently under review  
 
@@ -74,10 +79,11 @@ I enjoy solving real-world problems where machine learning meets **practical con
 
 ## What I’m Currently Working On
 
-- Building production-style ML projects with clean separation of ML and business logic  
-- Improving robustness, evaluation, and failure analysis in ML systems  
-- Learning deployment, MLOps fundamentals, and scalable ML system design  
-- Open to collaborating on ML, NLP, and applied AI projects  
+- Building **AI-ready ML systems** with clean architecture  
+- Transitioning toward **AI engineering and GenAI-based applications**  
+- Studying model assumptions, generalization, and failure modes  
+- Learning deployment, MLOps basics, and scalable AI system design  
+- Open to collaboration on ML, NLP, and AI-driven projects  
 
 ---
 
@@ -88,4 +94,4 @@ I enjoy solving real-world problems where machine learning meets **practical con
 
 ---
 
-I believe strong ML systems are built by **understanding data, assumptions, and failure modes**, not by defaulting to complex models.
+I believe strong AI systems are built on **solid ML foundations, good data, and clear assumptions**, not just advanced models.
