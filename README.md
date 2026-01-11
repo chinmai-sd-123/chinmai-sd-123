@@ -1,72 +1,91 @@
-# Hi there, I'm Chinmai! 👋  
+# Hi, I'm Chinmai SD
 
-I'm an aspiring **Machine Learning & AI Engineer** with a strong interest in building data-driven systems and intelligent applications.  
-I focus on **understanding data, engineering features, and building models that generalize well**, rather than blindly using complex algorithms.
+I am an aspiring **Machine Learning Engineer** focused on building **robust, end-to-end ML systems**.  
+My work emphasizes **data understanding, feature engineering, model evaluation, and deployment**, rather than relying on unnecessarily complex models.
+
+I enjoy solving real-world problems where machine learning meets **practical constraints and system design**.
 
 ---
 
-##  Areas of Interest
-- Machine Learning & Applied AI  
-- Data Analysis & Feature Engineering  
-- AI System Design & Model Evaluation  
+## Areas of Interest
+
+- Applied Machine Learning & NLP  
+- Feature Engineering and Model Generalization  
+- ML System Design and Evaluation  
 - Backend APIs for ML Applications  
+- Classical ML over deep learning when appropriate  
 
 ---
 
-##  Skills
+## Skills
 
-###  Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### Programming
+- Python  
+- SQL  
 
-###  Machine Learning & Data
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### Machine Learning & Data
+- Scikit-learn  
+- Pandas  
+- NumPy  
 
-###  Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+### Visualization
+- Matplotlib  
+- Seaborn  
 
-###  Backend & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
--  **House Price Prediction**  
-  Built an end-to-end ML regression pipeline with feature engineering and model comparison. Selected ElasticNet based on validation RMSE.
-
--  **Titanic Survival Prediction**  
-  Developed classification models with structured preprocessing, feature engineering, and validation-based model selection.
-
--  **AI-Powered Astronaut Health Monitoring System**  
-  Designed an AI-based system to analyze physiological data and assess health risks.  
-  **Presented at an IEEE International Conference (publication under review).**
+### Backend & Tools
+- Flask  
+- FastAPI  
+- Git  
+- GitHub  
 
 ---
 
-## 🎓 Certifications
-- **Machine Learning Specialization** — Andrew Ng (Coursera)
+## Featured Projects
+
+### Intelligent Customer Support Ticket Classification System
+- Built an end-to-end NLP system for automated customer support ticket triaging  
+- Used classical ML (TF-IDF + Linear SVM), avoiding deep learning by design  
+- Handled noisy and obfuscated text using character-level n-grams  
+- Implemented urgency detection, priority assignment, and department routing  
+- Deployed as a Flask web application with REST API and frontend  
+
+### House Price Prediction
+- Developed an end-to-end regression pipeline  
+- Performed feature engineering and model comparison  
+- Selected ElasticNet based on validation RMSE and generalization performance  
+
+### Titanic Survival Prediction
+- Structured preprocessing and feature engineering  
+- Evaluated multiple classification models with cross-validation  
+- Focused on generalization rather than leaderboard optimization  
+
+### AI-Powered Astronaut Health Monitoring System
+- Designed an AI-based system to analyze physiological data and assess health risks  
+- Presented at an IEEE International Conference  
+- Publication currently under review  
 
 ---
 
-##  What I’m Currently Doing
--  Building and refining end-to-end Machine Learning projects  
--  Transitioning towards **AI Engineering & GenAI systems**  
--  Exploring model generalization, assumptions, and evaluation  
--  Open to collaborating on ML / AI / data-driven projects  
+## Certifications
+
+- Machine Learning Specialization — Andrew Ng (Coursera)
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: [chinmaisdinesh@gmail.com](mailto:chinmaisdinesh@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/chinmai-sd](https://linkedin.com/in/chinmai-sd)  
+## What I’m Currently Working On
+
+- Building production-style ML projects with clean separation of ML and business logic  
+- Improving robustness, evaluation, and failure analysis in ML systems  
+- Learning deployment, MLOps fundamentals, and scalable ML system design  
+- Open to collaborating on ML, NLP, and applied AI projects  
 
 ---
 
-⭐ *I believe strong ML systems are built by understanding data, assumptions, and generalization — not just by using complex models.*
+## Contact
+
+- Email: chinmaisdinesh@gmail.com  
+- LinkedIn: https://linkedin.com/in/chinmai-sd  
+
+---
+
+I believe strong ML systems are built by **understanding data, assumptions, and failure modes**, not by defaulting to complex models.
