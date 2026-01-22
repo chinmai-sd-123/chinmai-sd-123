@@ -27,7 +27,7 @@ Currently, I am progressively transitioning from classical ML workflows toward *
 | Domain | Stack |
 | :--- | :--- |
 | **Programming** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) `Model Evaluation` `Validation Strategies` |
+| **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) `Model Evaluation` `Validation Strategies` `ANN` `Deep Learning` |
 | **NLP** | `TF-IDF` `n-grams` `Text Pipelines` `Classical NLP` |
 | **Data Processing** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) `Feature Engineering` |
 | **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge) |
@@ -37,7 +37,7 @@ Currently, I am progressively transitioning from classical ML workflows toward *
 
 ## Areas of Interest
 
-*   Machine Learning & Applied AI
+*   Machine Learning, Deep Learning & Applied AI
 *   Natural Language Processing (NLP)
 *   AI System Design & Evaluation
 *   Feature Engineering and Model Generalization
