@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Chinmai%20SD&fontSize=90)
 
-### 🤖 Machine Learning & AI Engineer
+###  Machine Learning & AI Engineer
 
 *Building robust, end-to-end intelligent systems.*
 
@@ -11,20 +11,11 @@
 
 <br/>
 
-<!-- Stats Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinmai-sd-123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Chinmai's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmai-sd-123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmai-sd-123&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
-
 </div>
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I am an aspiring **Machine Learning & AI Engineer** focused on **data understanding, feature engineering, model evaluation, and system design**. My goal is to build systems that are **correct, interpretable, and production-ready**.
 
@@ -34,7 +25,7 @@ Currently, I am progressively transitioning from classical ML workflows toward *
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 <div align="center">
 
@@ -51,51 +42,47 @@ Currently, I am progressively transitioning from classical ML workflows toward *
 
 ---
 
-## 🔬 Areas of Interest
+##  Areas of Interest
 
-*   🧠 **Machine Learning, Deep Learning & Applied AI**
-*   🗣️ **Natural Language Processing (NLP)**
-*   ⚙️ **AI System Design & Evaluation**
-*   📊 **Feature Engineering and Model Generalization**
-*   🔌 **Backend APIs for ML / AI Applications**
+*    **Machine Learning, Deep Learning & Applied AI**
+*    **Natural Language Processing (NLP)**
+*    **AI System Design & Evaluation**
+*    **Feature Engineering and Model Generalization**
+*    **Backend APIs for ML / AI Applications**
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📨 Intelligent Customer Support Ticket Classification System
+###  Intelligent Customer Support Ticket Classification System
 *   Built an end-to-end **ML-powered AI system** for automated customer support ticket triaging.
 *   Utilized **classical NLP + Linear SVM** to ensure strong generalization on noisy real-world text.
 *   Integrated urgency detection, priority assignment, and department routing.
 *   Designed a clean separation between ML models and business logic, deployed via **Flask** with a REST API.
 
-### 🩺 AI-Powered Astronaut Health Monitoring System
+###  AI-Powered Astronaut Health Monitoring System
 *   Designed an **AI-based system** to analyze physiological data and assess health risks.
 *   Focused on decision support and risk assessment for high-stakes environments.
 *   **Publication:** Presented at an IEEE International Conference (currently under review).
 
-### 🏠 House Price Prediction
+###  House Price Prediction
 *   Developed an end-to-end regression pipeline focusing on the **bias–variance tradeoff**.
 *   Compared multiple models and selected **ElasticNet** based on validation RMSE.
 *   Prioritized interpretability alongside accuracy.
 
-### 🚢 Titanic Survival Prediction
+###  Titanic Survival Prediction
 *   Structured preprocessing and feature engineering pipeline.
 *   Conducted rigorous model comparison using **cross-validation**.
 *   Emphasized generalization over leaderboard optimization.
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 *   🎓 **Machine Learning Specialization** — Andrew Ng (Coursera)
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
-I am currently working on transitioning toward **AI engineering and GenAI-based applications**. My study focuses on model assumptions, failure modes, and scalable AI system design (MLOps basics).
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chinmai-sd-123&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</div>
+I am currently working on transitioning toward **AI engineering and GenAI-based applications**. My study focuses on model assumptions, failure modes, and scalable AI system design (MLOps).
