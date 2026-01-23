@@ -65,6 +65,10 @@ Currently, I am progressively transitioning from classical ML workflows toward *
 *   Focused on decision support and risk assessment for high-stakes environments.
 *   **Publication:** Presented at an IEEE International Conference (currently under review).
 
+###  Customer Churn Prediction
+*   End-to-end bank customer churn prediction system using an ANN.
+*   Deployed as a FastAPI inference service with business-aligned threshold tuning.
+
 ###  House Price Prediction
 *   Developed an end-to-end regression pipeline focusing on the **bias–variance tradeoff**.
 *   Compared multiple models and selected **ElasticNet** based on validation RMSE.
