@@ -19,11 +19,10 @@
 
 I am an aspiring **Machine Learning & AI Engineer** focused on building practical, production-oriented AI systems grounded in solid ML foundations. I prioritize **data understanding, feature engineering, and validation-driven modeling** so solutions are interpretable, reliable, and maintainable in real-world environments.
 
-Currently transitioning from classical ML workflows toward **AI-driven and GenAI applications** (sequence models, attention, transformers, and LLM-based systems). I enjoy end-to-end work — from data pipelines and model development to deployment and API integration.
-
 > *I believe strong AI systems are built on solid ML foundations, good data, and clear assumptions, not just advanced models.*
 
-Currently, I am progressively transitioning from classical ML workflows toward **AI-driven and GenAI-based applications**.
+Currently transitioning from classical ML workflows toward **AI-driven and GenAI applications** (sequence models, attention, transformers, and LLM-based systems). I enjoy end-to-end work — from data pipelines and model development to deployment and API integration.
+
 
 ---
 
