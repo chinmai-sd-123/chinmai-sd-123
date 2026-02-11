@@ -89,4 +89,6 @@ Currently, I am progressively transitioning from classical ML workflows toward *
 
 ##  Current Focus
 
-I am currently working on transitioning toward **AI engineering and GenAI-based applications**. My study focuses on model assumptions, failure modes, and scalable AI system design (MLOps).
+- Deepening fundamentals: **sequence models (RNNs/LSTM/GRU) → attention → transformers**  
+- Building GenAI skills: **LLM , embeddings, retrieval**, and model fine-tuning (LoRA/QLoRA)  
+- Engineering: **API-first model deployment**, lightweight monitoring, and making models production-ready).
