@@ -225,7 +225,7 @@ MLOPS & MONITORING      [█████░░░░░]  50%  Docker, model ser
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chinmai-sd-123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=CDD6F4&ring_color=7C3AED" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chinmai-sd-123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=CDD6F4&hide_rank=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmai-sd-123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD6F4&langs_count=6" height="165"/>
 
 </div>
