@@ -1,95 +1,240 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Chinmai%20SD&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Chinmai%20SD&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=ML%20%26%20AI%20Engineer%20%E2%80%94%20Building%20Systems%20That%20Think&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
-###  Machine Learning & AI Engineer
-
-*Building robust, end-to-end intelligent systems.*
-
-<a href="mailto:chinmaisdinesh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/chinmai-sd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=End-to-end+AI+systems+%7C+Not+just+models;RAG+%7C+LLMs+%7C+MLOps+%7C+FastAPI;Classical+ML+%E2%86%92+Transformers+%E2%86%92+GenAI;IEEE+Published+Researcher+%F0%9F%93%84;B.E.+ISE+%40+DSCE+Bangalore+%7C+CGPA%3A+8.82)](https://git.io/typing-svg)
 
 <br/>
 
+[![Email](https://img.shields.io/badge/chinmaisdinesh%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chinmaisdinesh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/chinmai--sd-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmai-sd)
+[![GitHub](https://img.shields.io/badge/chinmai--sd--123-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chinmai-sd-123)
+[![Profile Views](https://komarev.com/ghpvc/?username=chinmai-sd-123&style=flat-square&color=7C3AED&label=Profile+Views)](https://github.com/chinmai-sd-123)
+
 </div>
 
 ---
 
-##  About Me
+## `> whoami`
 
-I am an aspiring **Machine Learning & AI Engineer** focused on building practical, production-oriented AI systems grounded in solid ML foundations. I prioritize **data understanding, feature engineering, and validation-driven modeling** so solutions are interpretable, reliable, and maintainable in real-world environments.
+```python
+class ChinmaiSD:
+    role        = "ML & AI Engineer"
+    location    = "Bengaluru, India 🇮🇳"
+    education   = "B.E. Information Science @ DSCE (CGPA: 8.82, Expected 2027)"
+    published   = ["IEEE ICTIBG 2025 — AI Space Crew Health Monitoring"]
 
-> *I believe strong AI systems are built on solid ML foundations, good data, and clear assumptions, not just advanced models.*
+    philosophy  = """
+        Strong AI systems aren't built on hype — they're built on
+        solid data, honest validation, and clear assumptions.
+        I care about models that generalize, not just ones that fit.
+    """
 
-Currently transitioning from classical ML workflows toward **AI-driven and GenAI applications** (sequence models, attention, transformers, and LLM-based systems). I enjoy end-to-end work — from data pipelines and model development to deployment and API integration.
+    currently   = [
+        "Building context-aware LLM pipelines (RAG + memory)",
+        "Studying: RNNs → Attention → Transformers → Fine-tuning",
+        "Making ML models actually production-ready",
+    ]
 
+    always_up_for = ["end-to-end system design", "research", "hard problems"]
+```
 
 ---
 
-##  Technical Skills
+## `> tech_stack --all`
+
+<details open>
+<summary><b>🧠 AI / ML</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AD3?style=for-the-badge&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+
+**ML Concepts:** Supervised Learning · Classification · Anomaly Detection · Time-Series Forecasting · Feature Engineering · Bias-Variance Tradeoff · Cross-Validation
+
+</details>
+
+<details open>
+<summary><b>🤖 LLM & GenAI Systems</b></summary>
+<br/>
+
+![LangChain](https://img.shields.io/badge/RAG_Pipelines-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/Fine--tuning_(LoRA%2FQLoRA)-FF6B6B?style=for-the-badge)
+![Chat Memory](https://img.shields.io/badge/Chat_Memory_Integration-10B981?style=for-the-badge)
+
+**Patterns:** Retrieval-Augmented Generation · Context-Aware Pipelines · Structured Output Generation · Tool Use / Function Calling
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Deployment</b></summary>
+<br/>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+
+**Practices:** JWT Auth · Async Processing · Modular REST APIs · Model Serving · Streaming Pipelines
+
+</details>
+
+<details>
+<summary><b>🛠️ Data & Tools</b></summary>
+<br/>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</details>
+
+---
+
+## `> ls -la projects/`
+
+### 🏋️ AI-Powered Habit Tracking & Personal Coaching System
+> *Full-stack AI coaching — where LLMs meet real behavior change*
+
+[![Repo](https://img.shields.io/badge/GitHub-AI_Coach-181717?style=flat-square&logo=github)](https://github.com/chinmai-sd-123/AI_coach)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_Pipeline-7C3AED?style=flat-square)
+
+- Designed a **context-aware LLM pipeline** that reasons over user goals, activity logs, and historical patterns
+- Implemented **lightweight RAG with chat memory** for dynamic, personalized coaching responses
+- Built scalable **FastAPI backend** with JWT auth, async processing, and modular REST APIs
+- Full-stack: mobile frontend (React Native) → AI reasoning layer → persistent PostgreSQL storage
+
+---
+
+### 🚀 AI-Powered Astronaut Health Monitoring System
+> *Real-time ML for high-stakes physiological risk prediction — IEEE Published*
+
+[![Repo](https://img.shields.io/badge/GitHub-Astronaut_Health-181717?style=flat-square&logo=github)](https://github.com/chinmai-sd-123/astronaut_space_health)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AD3?style=flat-square)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+![IEEE](https://img.shields.io/badge/IEEE_Published-00629B?style=flat-square&logo=ieee&logoColor=white)
+
+- Integrated **classification (XGBoost) + anomaly detection (Isolation Forest) + forecasting (Prophet)** in one system
+- Built a real-time **streaming pipeline** for telemetry ingestion, feature engineering, and low-latency inference
+- Engineered **multi-layer features** (raw, derived, contextual) to improve model robustness
+- 📄 **Published:** IEEE ICTIBG 2025 — [DOI: 10.1109/ICTIBG68706.2025.11323855](https://doi.org/10.1109/ICTIBG68706.2025.11323855)
+
+---
+
+### 🎫 Intelligent Customer Support Ticket Classification
+> *NLP-powered ticket triaging — classical ML that actually generalizes*
+
+[![Repo](https://img.shields.io/badge/GitHub-Ticket_Classifier-181717?style=flat-square&logo=github)](https://github.com/chinmai-sd-123/Intelligent-Customer-Support-Ticket-Classification)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-FF6B6B?style=flat-square)
+![SVM](https://img.shields.io/badge/Linear_SVM-F7931E?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+- Built multi-class text classifier with **urgency detection, priority assignment, and department routing**
+- Chose **Linear SVM + TF-IDF** deliberately for strong generalization on noisy, real-world text
+- Clean separation between ML models and business logic, served via **REST API**
+
+---
+
+### 📉 Customer Churn Prediction
+> *ANN-based churn model with business-aligned deployment*
+
+[![Repo](https://img.shields.io/badge/GitHub-Churn_Prediction-181717?style=flat-square&logo=github)](https://github.com/chinmai-sd-123/Customer-Churn-Prediction)
+![Keras](https://img.shields.io/badge/ANN-D00000?style=flat-square&logo=keras&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+- End-to-end ANN for bank customer churn, deployed as a **FastAPI inference service**
+- Applied **business-aligned threshold tuning** — optimizing for recall over raw accuracy
+
+---
+
+### 🏠 House Price Prediction & 🚢 Titanic Survival
+> *Rigorous ML foundations with production thinking*
+
+[![Houses](https://img.shields.io/badge/GitHub-House_Prices-181717?style=flat-square&logo=github)](https://github.com/chinmai-sd-123/House-Price-Prediction)
+[![Titanic](https://img.shields.io/badge/GitHub-Titanic-181717?style=flat-square&logo=github)](https://github.com/chinmai-sd-123/titanic-survival-prediction)
+
+- House Prices: Multi-model comparison → selected **ElasticNet** on validation RMSE; bias-variance tradeoff as first principle
+- Titanic: Structured preprocessing pipeline + **cross-validation over leaderboard hacking**
+
+---
+
+## `> cat learning_roadmap.txt`
+
+```
+ML FOUNDATIONS          [██████████] 100%  scikit-learn, feature eng., validation
+DEEP LEARNING           [████████░░]  80%  ANNs, CNNs (Keras/TF)
+LLM SYSTEMS             [███████░░░]  70%  RAG, prompt eng., memory, structured output
+SEQUENCE MODELS         [████░░░░░░]  40%  RNNs / LSTM / GRU  ← active focus
+ATTENTION / TRANSFORMERS[██░░░░░░░░]  20%  ← next milestone
+FINE-TUNING (LoRA/QLoRA)[█░░░░░░░░░]  10%  ← exploratory
+MLOPS & MONITORING      [█████░░░░░]  50%  Docker, model serving ← improving
+```
+
+---
+
+## `> github stats`
 
 <div align="center">
 
-| Domain | Stack |
-| :--- | :--- |
-| **Programming** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) |
-| **NLP** | ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow?style=for-the-badge) `TF-IDF` `n-grams` `Text Pipelines` `Classical NLP` |
-| **Data Processing** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
-| **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=python&logoColor=white) |
-| **Backend & Tools** | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+<img src="https://github-readme-stats.vercel.app/api?username=chinmai-sd-123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=CDD6F4&ring_color=7C3AED" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmai-sd-123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD6F4&langs_count=6" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=chinmai-sd-123&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=7C3AED&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=CDD6F4&dates=CDD6F4" width="49%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmai-sd-123&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FF6B6B&hide_border=true" width="98%"/>
 
 </div>
 
 ---
 
-##  Areas of Interest
+## `> cat achievements.txt`
 
-*    **Machine Learning, Deep Learning & Applied AI**
-*    **Natural Language Processing (NLP)**
-*    **AI System Design & Evaluation**
-*    **Feature Engineering and Model Generalization**
-*    **Backend APIs for ML / AI Applications**
+🏆 **IEEE ICTIBG 2025** — Published researcher on AI for space crew health monitoring
+🎓 **Machine Learning Specialization** — Andrew Ng (Coursera / DeepLearning.AI)
+🎓 **B.E. Information Science** — DSCE Bangalore (CGPA: **8.82**)
 
 ---
 
-##  Featured Projects
+## `> contact --open`
 
-###  Intelligent Customer Support Ticket Classification System
-*   Built an end-to-end **ML-powered AI system** for automated customer support ticket triaging.
-*   Utilized **classical NLP + Linear SVM** to ensure strong generalization on noisy real-world text.
-*   Integrated urgency detection, priority assignment, and department routing.
-*   Designed a clean separation between ML models and business logic, deployed via **Flask** with a REST API.
+I'm always open to discussing **AI system design**, **collaboration on ML projects**, or **research opportunities**.
 
-###  AI-Powered Astronaut Health Monitoring System
-*   Designed an **AI-based system** to analyze physiological data and assess health risks.
-*   Focused on decision support and risk assessment for high-stakes environments.
-*   **Publication:** Presented at an IEEE International Conference (currently under review).
+<div align="center">
 
-###  Customer Churn Prediction
-*   End-to-end bank customer churn prediction system using an ANN.
-*   Deployed as a FastAPI inference service with business-aligned threshold tuning.
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmaisdinesh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmai-sd)
+[![GitHub](https://img.shields.io/badge/Explore_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmai-sd-123?tab=repositories)
 
-###  House Price Prediction
-*   Developed an end-to-end regression pipeline focusing on the **bias–variance tradeoff**.
-*   Compared multiple models and selected **ElasticNet** based on validation RMSE.
-*   Prioritized interpretability alongside accuracy.
-
-###  Titanic Survival Prediction
-*   Structured preprocessing and feature engineering pipeline.
-*   Conducted rigorous model comparison using **cross-validation**.
-*   Emphasized generalization over leaderboard optimization.
+</div>
 
 ---
 
-##  Certifications
+<div align="center">
 
-*   🎓 **Machine Learning Specialization** — Andrew Ng (Coursera)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 
----
+*"The goal is not to build impressive demos — it's to build systems that reliably do what they claim."*
 
-##  Current Focus
-
-- Deepening fundamentals: **sequence models (RNNs/LSTM/GRU) → attention → transformers**  
-- Building GenAI skills: **LLM , embeddings, retrieval**, and model fine-tuning (LoRA/QLoRA)  
-- Engineering: **API-first model deployment**, lightweight monitoring, and making models production-ready).
+</div>
