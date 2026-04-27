@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Chinmai%20SD&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=ML%20%26%20AI%20Engineer%20%E2%80%94%20Building%20Systems%20That%20Think&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Chinmai%20SD&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=ML%20%26%20AI%20Engineer%20%E2%80%94%20Building%20Systems%20That%20Think&descSize=18&descAlignY=68&animation=fadeIn" width="100%"/>
+
+<img src="https://avatars.githubusercontent.com/u/220132640?v=4" width="130" height="130" style="border-radius:50%;border:4px solid #7C3AED;margin-top:-65px;" />
+
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=End-to-end+AI+systems+%7C+Not+just+models;RAG+%7C+LLMs+%7C+MLOps+%7C+FastAPI;Classical+ML+%E2%86%92+Transformers+%E2%86%92+GenAI;IEEE+Published+Researcher+%F0%9F%93%84;B.E.+ISE+%40+DSCE+Bangalore+%7C+CGPA%3A+8.82)](https://git.io/typing-svg)
 
@@ -9,7 +13,6 @@
 [![Email](https://img.shields.io/badge/chinmaisdinesh%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chinmaisdinesh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/chinmai--sd-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmai-sd)
 [![GitHub](https://img.shields.io/badge/chinmai--sd--123-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chinmai-sd-123)
-[![Profile Views](https://komarev.com/ghpvc/?username=chinmai-sd-123&style=flat-square&color=7C3AED&label=Profile+Views)](https://github.com/chinmai-sd-123)
 
 </div>
 
