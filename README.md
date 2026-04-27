@@ -1,6 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Chinmai%20SD&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=ML%20%26%20AI%20Engineer%20%E2%80%94%20Building%20Systems%20That%20Think&descSize=18&descAlignY=68&animation=fadeIn" width="100%"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)" rx="0"/>
+  <path d="M0,160 C150,120 300,180 450,150 C600,120 750,170 900,140 L900,200 L0,200 Z" fill="#7C3AED" opacity="0.3"/>
+  <path d="M0,175 C200,145 400,185 600,160 C750,140 850,170 900,155 L900,200 L0,200 Z" fill="#A78BFA" opacity="0.2"/>
+  <text x="450" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2">Chinmai SD</text>
+  <text x="450" y="135" font-family="'Segoe UI', Arial, sans-serif" font-size="17" fill="#A78BFA" text-anchor="middle" letter-spacing="1">ML &amp; AI Engineer — Building Systems That Think</text>
+</svg>
 
 <img src="https://avatars.githubusercontent.com/u/220132640?v=4" width="130" height="130" style="border-radius:50%;border:4px solid #7C3AED;margin-top:-65px;" />
 
@@ -236,7 +249,18 @@ I'm always open to discussing **AI system design**, **collaboration on ML projec
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" width="100%">
+  <defs>
+    <linearGradient id="foot" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="100" fill="url(#foot)"/>
+  <path d="M0,40 C150,70 300,20 450,50 C600,80 750,30 900,55 L900,0 L0,0 Z" fill="#7C3AED" opacity="0.3"/>
+  <path d="M0,25 C200,55 400,15 600,40 C750,60 850,25 900,35 L900,0 L0,0 Z" fill="#A78BFA" opacity="0.2"/>
+</svg>
 
 *"The goal is not to build impressive demos — it's to build systems that reliably do what they claim."*
 
