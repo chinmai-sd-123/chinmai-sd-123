@@ -122,7 +122,6 @@ class ChinmaiSD:
 ### 🏋️ AI-Powered Habit Tracking & Personal Coaching System
 > *Full-stack AI coaching — where LLMs meet real behavior change*
 
-[![Repo](https://img.shields.io/badge/GitHub-AI_Coach-181717?style=flat-square&logo=github)](https://github.com/chinmai-sd-123/AI_coach)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -133,12 +132,13 @@ class ChinmaiSD:
 - Built scalable **FastAPI backend** with JWT auth, async processing, and modular REST APIs
 - Full-stack: mobile frontend (React Native) → AI reasoning layer → persistent PostgreSQL storage
 
+[![View Repository](https://img.shields.io/badge/%20View%20Repository%20%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmai-sd-123/AI_coach)
+
 ---
 
 ### 🚀 AI-Powered Astronaut Health Monitoring System
 > *Real-time ML for high-stakes physiological risk prediction — IEEE Published*
 
-[![Repo](https://img.shields.io/badge/GitHub-Astronaut_Health-181717?style=flat-square&logo=github)](https://github.com/chinmai-sd-123/astronaut_space_health)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AD3?style=flat-square)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
@@ -149,12 +149,13 @@ class ChinmaiSD:
 - Engineered **multi-layer features** (raw, derived, contextual) to improve model robustness
 - 📄 **Published:** IEEE ICTIBG 2025 — [DOI: 10.1109/ICTIBG68706.2025.11323855](https://doi.org/10.1109/ICTIBG68706.2025.11323855)
 
+[![View Repository](https://img.shields.io/badge/%20View%20Repository%20%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmai-sd-123/astronaut_space_health)
+
 ---
 
 ### 🎫 Intelligent Customer Support Ticket Classification
 > *NLP-powered ticket triaging — classical ML that actually generalizes*
 
-[![Repo](https://img.shields.io/badge/GitHub-Ticket_Classifier-181717?style=flat-square&logo=github)](https://github.com/chinmai-sd-123/Intelligent-Customer-Support-Ticket-Classification)
 ![TF-IDF](https://img.shields.io/badge/TF--IDF-FF6B6B?style=flat-square)
 ![SVM](https://img.shields.io/badge/Linear_SVM-F7931E?style=flat-square)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -163,28 +164,46 @@ class ChinmaiSD:
 - Chose **Linear SVM + TF-IDF** deliberately for strong generalization on noisy, real-world text
 - Clean separation between ML models and business logic, served via **REST API**
 
+[![View Repository](https://img.shields.io/badge/%20View%20Repository%20%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmai-sd-123/Intelligent-Customer-Support-Ticket-Classification)
+
 ---
 
 ### 📉 Customer Churn Prediction
 > *ANN-based churn model with business-aligned deployment*
 
-[![Repo](https://img.shields.io/badge/GitHub-Churn_Prediction-181717?style=flat-square&logo=github)](https://github.com/chinmai-sd-123/Customer-Churn-Prediction)
 ![Keras](https://img.shields.io/badge/ANN-D00000?style=flat-square&logo=keras&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 - End-to-end ANN for bank customer churn, deployed as a **FastAPI inference service**
 - Applied **business-aligned threshold tuning** — optimizing for recall over raw accuracy
 
+[![View Repository](https://img.shields.io/badge/%20View%20Repository%20%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmai-sd-123/Customer-Churn-Prediction)
+
 ---
 
-### 🏠 House Price Prediction & 🚢 Titanic Survival
-> *Rigorous ML foundations with production thinking*
+### 🏠 House Price Prediction
+> *Rigorous regression with production thinking*
 
-[![Houses](https://img.shields.io/badge/GitHub-House_Prices-181717?style=flat-square&logo=github)](https://github.com/chinmai-sd-123/House-Price-Prediction)
-[![Titanic](https://img.shields.io/badge/GitHub-Titanic-181717?style=flat-square&logo=github)](https://github.com/chinmai-sd-123/titanic-survival-prediction)
+![ElasticNet](https://img.shields.io/badge/ElasticNet-F7931E?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-- House Prices: Multi-model comparison → selected **ElasticNet** on validation RMSE; bias-variance tradeoff as first principle
-- Titanic: Structured preprocessing pipeline + **cross-validation over leaderboard hacking**
+- Multi-model comparison → selected **ElasticNet** on validation RMSE
+- Bias-variance tradeoff as first principle; interpretability alongside accuracy
+
+[![View Repository](https://img.shields.io/badge/%20View%20Repository%20%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmai-sd-123/House-Price-Prediction)
+
+---
+
+### 🚢 Titanic Survival Prediction
+> *ML foundations done right — generalization over leaderboard hacking*
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Cross-Validation](https://img.shields.io/badge/Cross--Validation-7C3AED?style=flat-square)
+
+- Structured preprocessing and feature engineering pipeline
+- Rigorous **cross-validation** over leaderboard optimization
+
+[![View Repository](https://img.shields.io/badge/%20View%20Repository%20%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmai-sd-123/titanic-survival-prediction)
 
 ---
 
