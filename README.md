@@ -15,7 +15,7 @@
   <text x="450" y="135" font-family="'Segoe UI', Arial, sans-serif" font-size="17" fill="#A78BFA" text-anchor="middle" letter-spacing="1">ML &amp; AI Engineer — Building Systems That Think</text>
 </svg>
 
-<img src="https://avatars.githubusercontent.com/u/220132640?v=4" width="130" height="130" style="border-radius:50%;border:4px solid #7C3AED;margin-top:-65px;" />
+<img src="https://avatars.githubusercontent.com/u/220132640?v=4" width="130" height="130" style="display:block;border-radius:50%;border:4px solid #7C3AED;margin:-65px auto 0;" />
 
 <br/>
 
@@ -26,6 +26,7 @@
 [![Email](https://img.shields.io/badge/chinmaisdinesh%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chinmaisdinesh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/chinmai--sd-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmai-sd)
 [![GitHub](https://img.shields.io/badge/chinmai--sd--123-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chinmai-sd-123)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=google-chrome&logoColor=white)](https://www.chinmai-sd.me/)
 
 </div>
 
@@ -261,6 +262,7 @@ I'm always open to discussing **AI system design**, **collaboration on ML projec
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmaisdinesh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmai-sd)
 [![GitHub](https://img.shields.io/badge/Explore_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmai-sd-123?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.chinmai-sd.me/)
 
 </div>
 
