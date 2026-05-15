@@ -120,6 +120,20 @@ class ChinmaiSD:
 
 ## `> ls -la projects/`
 
+### 🧭 TraceroAI — RAG Observability & LLMOps Platform
+> *Production visibility for LLM pipelines and RAG systems*
+
+![LLMOps](https://img.shields.io/badge/LLMOps-7C3AED?style=flat-square)
+![Observability](https://img.shields.io/badge/Observability-0EA5E9?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-1C3C3C?style=flat-square)
+
+- RAG observability & LLMOps platform for monitoring LLM pipelines end-to-end
+- Learn more at **https://traceroai.tech**
+
+[![Visit Platform](https://img.shields.io/badge/Visit_Platform-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://traceroai.tech)
+
+---
+
 ### 🏋️ AI-Powered Habit Tracking & Personal Coaching System
 > *Full-stack AI coaching — where LLMs meet real behavior change*
 
