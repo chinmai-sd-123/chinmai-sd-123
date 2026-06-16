@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7C3AED&height=200&section=header&text=Chinmai%20SD&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20%26%20AI%20Engineer%20%E2%80%94%20Building%20Systems%20That%20Think&descSize=18&descAlignY=60&descColor=A78BFA" width="100%"/>
+<img src="https://avatars.githubusercontent.com/u/220132640?v=4" width="120" alt="Chinmai SD"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=End-to-end+AI+systems%2C+not+just+models;RAG+%7C+LLMs+%7C+MLOps+%7C+FastAPI;Classical+ML+%E2%86%92+Transformers+%E2%86%92+GenAI;IEEE+Published+Researcher+%F0%9F%93%84;B.E.+ISE+%40+DSCE+Bangalore+%7C+CGPA+8.82)](https://github.com/chinmai-sd-123)
 
@@ -10,7 +10,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmaisdinesh@gmail.com)
 [![TraceroAI](https://img.shields.io/badge/TraceroAI-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://traceroai.tech)
 
-![Profile Views](https://komarev.com/ghpvc/?username=chinmai-sd-123&style=flat-square&color=7C3AED&label=Profile+Views)
 
 </div>
 
@@ -28,7 +27,6 @@ class ChinmaiSD:
     published   = "IEEE ICTIBG 2025 — AI for Space Crew Health Monitoring"
 
     focus       = ["RAG & LLM pipelines", "MLOps & observability", "end-to-end design"]
-    learning    = ["RNNs → Attention → Transformers → Fine-tuning (LoRA/QLoRA)"]
     philosophy  = "Strong AI systems come from solid data, honest validation, " \
                   "and clear assumptions — not hype. Models that generalize > models that fit."
 ```
