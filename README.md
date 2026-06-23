@@ -149,7 +149,7 @@ FINE-TUNING (LoRA/QLoRA)  █░░░░░░░░░   10%                  
 
 <img src="https://streak-stats.demolab.com?user=chinmai-sd-123&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=7C3AED&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=CDD6F4&dates=CDD6F4" width="60%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmai-sd-123&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FF6B6B&hide_border=true&area=true" width="98%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmai-sd-123&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FF6B6B&hide_border=true&area=true" width="98%"/> -->
 
 </div>
 
