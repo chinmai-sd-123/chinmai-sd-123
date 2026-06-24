@@ -1,182 +1,77 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/220132640?v=4" width="120" alt="Chinmai SD"/>
+# Chinmai S D
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=End-to-end+AI+systems%2C+not+just+models;RAG+%7C+LLMs+%7C+MLOps+%7C+FastAPI;Classical+ML+%E2%86%92+Transformers+%E2%86%92+GenAI;IEEE+Published+Researcher+%F0%9F%93%84;B.E.+ISE+%40+DSCE+Bangalore+%7C+CGPA+8.82)](https://github.com/chinmai-sd-123)
+**AI engineer who builds the systems behind AI.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.chinmai-sd.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmai-sd)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmaisdinesh@gmail.com)
-[![TraceroAI](https://img.shields.io/badge/TraceroAI-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://traceroai.tech)
+I work on reliability, evaluation, and observability for production AI, and on the backend
+infrastructure that makes those systems hold up. Mostly Python.
 
+[Portfolio](https://www.chinmai-sd.me/) &nbsp;·&nbsp;
+[LinkedIn](https://linkedin.com/in/chinmai-sd) &nbsp;·&nbsp;
+[Email](mailto:chinmaisdinesh@gmail.com)
 
 </div>
 
 ---
 
-## 👋 About Me
+### What I'm focused on
 
-I'm an **ML & AI Engineer** who builds **complete, production-ready AI systems** — from data pipelines and model development to APIs, deployment, and monitoring. Not just notebooks, but systems that reliably do what they claim.
+Most "AI works" demos fall apart in production. I spend my time on the unglamorous parts that
+decide whether they actually hold: knowing *why* an answer was wrong, catching failures before
+users do, keeping cost and latency honest, and making the data pipeline underneath trustworthy.
 
-```python
-class ChinmaiSD:
-    role        = "ML & AI Engineer"
-    location    = "Bengaluru, India 🇮🇳"
-    education   = "B.E. Information Science @ DSCE  (CGPA: 8.82, Expected 2027)"
-    published   = "IEEE ICTIBG 2025 — AI for Space Crew Health Monitoring"
-
-    focus       = ["RAG & LLM pipelines", "MLOps & observability", "end-to-end design"]
-    philosophy  = "Strong AI systems come from solid data, honest validation, " \
-                  "and clear assumptions — not hype. Models that generalize > models that fit."
-```
+B.E. Information Science at DSCE Bengaluru (CGPA 8.82, 2027). Published at IEEE ICTBIG 2025.
 
 ---
 
-## 🛠️ Tech Stack
+### Selected work
 
-**AI / Machine Learning**
+**[TraceroAI](https://traceroai.tech) — reliability infrastructure for production AI**
+A RAG evaluation and observability platform: a Python SDK on PyPI feeds a FastAPI backend and a
+Next.js dashboard. Instead of flagging a generic "hallucination," it tells you *which* stage
+failed: retrieval, context, or generation. The evaluation engine runs in two tiers, fast
+embedding relevance scoring inline and LLM-as-Judge groundedness checks asynchronously, with a
+LangGraph agent that proposes fixes.
+`Python SDK` · `FastAPI` · `LangGraph` · `Redis` · `Next.js`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AD3?style=for-the-badge&logo=python&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+**[LogScope](https://github.com/chinmai-sd-123/LogScope) — log intelligence and incident triage**
+A terminal tool that tails logs live, groups thousands of near-identical lines into a handful of
+patterns with the Drain algorithm, flags error spikes with plain statistics, and searches history
+over SQLite FTS5. Includes a distributed mode where agents ship logs to a central server with
+at-least-once delivery and idempotent writes, so nothing is lost and nothing is double-counted.
+Single asyncio event loop with backpressure throughout. 100+ tests.
+`Python` · `asyncio` · `SQLite/FTS5` · `custom TCP protocol`
 
-**LLM & GenAI**
+**[SignalStack](https://github.com/chinmai-sd-123/SIgnal_Stack) — grounded candidate evaluation**
+Evaluates engineers against real evidence pulled from their GitHub and coding profiles, then
+validates each generated assessment against the retrieved code so the output stays grounded.
+Batched, outcome-level evaluation cut LLM call volume by roughly 5x and token cost by about 60%.
+`FastAPI` · `PostgreSQL` · `Redis` · `OpenAI`
 
-![RAG](https://img.shields.io/badge/RAG_Pipelines-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge)
-![Fine-tuning](https://img.shields.io/badge/Fine--tuning_(LoRA%2FQLoRA)-FF6B6B?style=for-the-badge)
-![Chat Memory](https://img.shields.io/badge/Chat_Memory-10B981?style=for-the-badge)
-
-**Backend & Deployment**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
-
-**Data & Tools**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🧭 [TraceroAI — RAG Observability & LLMOps Platform](https://traceroai.tech)
-Production-grade visibility for LLM pipelines and RAG systems — monitor, trace, and debug end-to-end.
-
-`LLMOps` · `Observability` · `RAG`  &nbsp;|&nbsp; 🌐 **[traceroai.tech](https://traceroai.tech)**
-
----
-
-### 🚀 [AI-Powered Astronaut Health Monitoring](https://github.com/chinmai-sd-123/astronaut_space_health) &nbsp;`📄 IEEE Published`
-Real-time ML for high-stakes physiological risk prediction.
-- Combined **XGBoost** (classification) + **Isolation Forest** (anomaly detection) + **Prophet** (forecasting) in one system
-- Built a real-time **streaming pipeline** for telemetry ingestion, feature engineering, and low-latency inference
-- Engineered multi-layer features (raw → derived → contextual) for model robustness
-- 📄 **IEEE ICTIBG 2025** · [DOI: 10.1109/ICTIBG68706.2025.11323855](https://doi.org/10.1109/ICTIBG68706.2025.11323855)
-
-`FastAPI` · `XGBoost` · `Isolation Forest` · `Prophet` · `InfluxDB`
-
----
-
-### 🏋️ [AI Coach — Habit Tracking & Personal Coaching](https://github.com/chinmai-sd-123/AI_coach)
-Full-stack AI coaching where LLMs meet real behavior change.
-- **Context-aware LLM pipeline** that reasons over user goals, activity logs, and historical patterns
-- **Lightweight RAG + chat memory** for dynamic, personalized responses
-- Scalable **FastAPI** backend with JWT auth, async processing, and modular REST APIs
-
-`React Native` · `FastAPI` · `PostgreSQL` · `LLM Pipeline`
-
----
-
-### 🎫 [Intelligent Support Ticket Classification](https://github.com/chinmai-sd-123/Intelligent-Customer-Support-Ticket-Classification)
-NLP-powered ticket triaging — classical ML that actually generalizes.
-- Multi-class classifier with **urgency detection, priority assignment, and department routing**
-- Chose **Linear SVM + TF-IDF** deliberately for strong generalization on noisy, real-world text
-- Clean separation between ML models and business logic, served via REST API
-
-`TF-IDF` · `Linear SVM` · `Flask`
-
----
+**[Astronaut Health Monitoring](https://github.com/chinmai-sd-123/astronaut_space_health) — real-time ML, IEEE published**
+A streaming inference pipeline classifying physiological risk under a 50 ms latency target.
+XGBoost over 49K records with 68 engineered features, plus Isolation Forest and Prophet for
+anomaly detection and forecasting. 93.1% accuracy.
+Published at IEEE ICTBIG 2025 · [DOI](https://doi.org/10.1109/ICTIBG68706.2025.11323855)
+`FastAPI` · `XGBoost` · `Isolation Forest` · `Prophet`
 
 <details>
-<summary><b>📂 More projects</b></summary>
+<summary>Other work</summary>
 
 <br/>
 
-**📉 [Customer Churn Prediction](https://github.com/chinmai-sd-123/Customer-Churn-Prediction)** — End-to-end ANN for bank churn, deployed as a FastAPI service with business-aligned **threshold tuning** (recall over raw accuracy). &nbsp;`Keras` · `FastAPI`
-
-**🏠 [House Price Prediction](https://github.com/chinmai-sd-123/House-Price-Prediction)** — Multi-model regression comparison; selected **ElasticNet** on validation RMSE with bias-variance tradeoff as a first principle. &nbsp;`ElasticNet` · `scikit-learn`
-
-**🚢 [Titanic Survival Prediction](https://github.com/chinmai-sd-123/titanic-survival-prediction)** — ML foundations done right: structured preprocessing, feature engineering, and rigorous **cross-validation** over leaderboard hacking. &nbsp;`scikit-learn`
+- **[EvidenceGPT](https://github.com/chinmai-sd-123/EvidenceGPT)** — verifiable research assistant with an evidence graph and human oversight.
+- **[Structured Data Extractor API](https://github.com/chinmai-sd-123/Structured_Data_Extractor_API)** — production-oriented backend that extracts structured company data with validated outputs.
+- **[RAG Playground](https://github.com/chinmai-sd-123/rag_playground)** — a from-scratch RAG sandbox with LangChain and Chroma.
 
 </details>
 
 ---
 
-## 📈 Learning Roadmap
+### Tools I reach for
 
-```text
-ML FOUNDATIONS            ██████████  100%   scikit-learn, feature eng., validation
-DEEP LEARNING             ████████░░   80%   ANNs, CNNs (Keras / TF)
-LLM SYSTEMS               ███████░░░   70%   RAG, prompt eng., memory, structured output
-MLOPS & MONITORING        █████░░░░░   50%   Docker, model serving        ← improving
-SEQUENCE MODELS           ████░░░░░░   40%   RNN / LSTM / GRU             ← active focus
-ATTENTION / TRANSFORMERS  ██░░░░░░░░   20%                                ← next milestone
-FINE-TUNING (LoRA/QLoRA)  █░░░░░░░░░   10%                                ← exploratory
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chinmai-sd-123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=CDD6F4&hide_rank=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmai-sd-123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD6F4&langs_count=6" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=chinmai-sd-123&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=7C3AED&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=CDD6F4&dates=CDD6F4" width="60%"/>
-
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmai-sd-123&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FF6B6B&hide_border=true&area=true" width="98%"/> -->
-
-</div>
-
----
-
-## 🏆 Achievements
-
-- 📄 **IEEE ICTIBG 2025** — Published researcher on AI for space crew health monitoring
-- 🎓 **Machine Learning Specialization** — Andrew Ng (DeepLearning.AI / Coursera)
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to discussing **AI system design**, **ML collaborations**, and **research opportunities**.
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmaisdinesh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmai-sd)
-[![GitHub](https://img.shields.io/badge/Explore_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmai-sd-123?tab=repositories)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.chinmai-sd.me/)
-
-<br/>
-
-<i>"The goal is not to build impressive demos — it's to build systems that reliably do what they claim."</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-</div>
+**AI / ML**&nbsp; Python · PyTorch · scikit-learn · XGBoost · Hugging Face Transformers
+**LLM systems**&nbsp; RAG · LangGraph · LangChain · LLM-as-Judge · structured outputs · OpenAI / Gemini APIs
+**Backend**&nbsp; FastAPI · REST · Redis · PostgreSQL · background workers · Docker · CI/CD
+**Observability**&nbsp; Prometheus · token / cost / latency tracking · vector search
