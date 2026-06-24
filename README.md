@@ -5,7 +5,7 @@
 **AI engineer who builds the systems behind AI.**
 
 I work on reliability, evaluation, and observability for production AI, and on the backend
-infrastructure that makes those systems hold up. Mostly Python.
+infrastructure that makes those systems hold up.
 
 [Portfolio](https://www.chinmai-sd.me/) &nbsp;·&nbsp;
 [LinkedIn](https://linkedin.com/in/chinmai-sd) &nbsp;·&nbsp;
